@@ -1,2 +1,2 @@
-# pycellularautomata
-Cellular Automata in Python
+# pybreakout
+Atari Breakout in Python
